@@ -6,5 +6,10 @@ Manejo de tipo de Variables, Cadenas, if, for, While
 ## Manejo de Cadenas
 - ![image](https://github.com/user-attachments/assets/5e8fc572-3278-452b-aa4f-b89f8a8278e5)
 - ![image](https://github.com/user-attachments/assets/c7eeb88f-8699-45ae-b575-c80b527cdc7e)
+## If Else
+- Cuando es verdadero
+- ![image](https://github.com/user-attachments/assets/6aa87b9e-f7ae-4bec-9909-fbc475413410)
+- Cuando es falso
+- ![image](https://github.com/user-attachments/assets/e76dcc73-18e0-4d15-aabf-4e76a80c887e)
 
 
